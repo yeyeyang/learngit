@@ -1,2 +1,2 @@
-Git is version contorl system
+Git is  an distributed version contorl system
 
